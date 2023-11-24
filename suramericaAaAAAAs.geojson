@@ -1479,11 +1479,9 @@
           ]
         ],
         "type": "Polygon"
-      }
-    }
-  ],
+      },
 "id":"CUB"
-},
+    },
 {
     "type": "Feature",
     "properties": {"name": "Brasil"},
@@ -2520,7 +2518,6 @@
         "type": "Feature",
         "properties": {"name":"Colombia"},
         "geometry": {
-  "type":"Polygon",
           "coordinates": [
             [
               [
@@ -3536,7 +3533,8 @@
                 10.651108540254867
               ]
             ]
-          ]
+          ],
+"type":"Polygon"
         }, 
 "id" : "COL"
       },     
