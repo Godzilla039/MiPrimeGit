@@ -12,7 +12,6 @@ Barbados,BRB,291933
 Bermuda,BMU,64174
 Bahamas,BHS,323295
 Bangladesh,BGD,15328112
-Belize,BLZ,275546
 Bosnia and Herzegovina,BIH,3915238
 Burma,MMR,47967266
 Benin,BEN,8490301
@@ -31,7 +30,6 @@ Cayman Islands,CYM,45591
 Cameroon,CMR,17795149
 Chad,TCD,10145609
 Comoros,COM,797902
-Costa Rica,CRI,4327228
 Central African Republic,CAF,4191429
 Cuba,CUB,11259905
 Cape Verde,CPV,506807
@@ -47,7 +45,7 @@ Ireland,IRL,4143294
 Equatorial Guinea,GNQ,484098
 Estonia,EST,1344312
 Eritrea,ERI,4526722
-El Salvador,SLV,6668356
+CentroA,CEN,6668356
 Ethiopia,ETH,78985857
 Austria,AUT,8291979
 Czech Republic,CZE,10191762
@@ -65,10 +63,8 @@ Greenland,GRL,57475
 Germany,DEU,82652369
 Guam,GUM,16857
 Greece,GRC,11099737
-Guatemala,GTM,12709564
 Guinea,GIN,9002656
 Haiti,HTI,9296291
-Honduras,HND,683411
 Croatia,HRV,455149
 Hungary,HUN,10086387
 Iceland,ISL,295732
@@ -147,11 +143,9 @@ Netherlands,NLD,1632769
 Norway,NOR,4638836
 Nepal,NPL,27093656
 Nauru,NRU,10111
-Nicaragua,NIC,5462539
 New Zealand,NZL,4097112
 Pakistan,PAK,158080591
 Poland,POL,38195558
-Panama,PAN,3231502
 Portugal,PRT,10528226
 Papua New Guinea,PNG,6069715
 Guinea-Bissau,GNB,1596929
