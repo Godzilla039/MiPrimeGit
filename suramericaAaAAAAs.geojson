@@ -1266,8 +1266,11 @@
     
       {
         "type": "Feature",
-        "properties": { "name" : "SurAmerica4"},
+        "properties": { 
+   "name" : "Ecuador"
+     },
         "geometry": { 
+"type": "Polygon" , 
           "coordinates": [
             [
               [
@@ -1787,8 +1790,7 @@
                 1.5867171039672314
             ]
         ]
-      ],
-      "type": "Polygon"      
+      ]   
     },
     "id": "SUR4"
         
