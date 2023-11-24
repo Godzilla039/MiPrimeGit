@@ -21,7 +21,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "SurAmerica2"
+          "name": " Brasil"
         },
         "geometry": {
           "coordinates": [
@@ -1050,7 +1050,7 @@
       ],
       "type": "Polygon"      
     },
-    "id": "SUR2"
+    "id": "BRA"
         
       },
       {
