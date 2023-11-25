@@ -4,6 +4,7 @@
         "name": "GranColombia"
       },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -659,8 +660,7 @@
               1.5709337539563535
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
       },
 "id":"GCL"
     },
@@ -5680,7 +5680,7 @@
       }, 
 {
         "type": "Feature",
-        "properties": {"name": "SurAmerica3"},
+        "properties": {"name": "Chile"},
         "geometry": { 
 "type":"Polygon",
           "coordinates": [
@@ -6260,7 +6260,7 @@
         ]
       ]     
     },
-    "id": "SUR3"
+    "id": "CHI"
         
     }
 ]}
