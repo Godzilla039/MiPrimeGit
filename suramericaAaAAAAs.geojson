@@ -3346,6 +3346,7 @@
       "type": "Feature",
       "properties": {"name":"Cuba"},
       "geometry": {
+"type":"Polygon",
         "coordinates": [
           [
             [
@@ -3597,8 +3598,7 @@
               22.46772070198689
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
       },
 "id":"CUB"
     },
@@ -3606,7 +3606,7 @@
     "type": "Feature",
     "properties": {"name": "Brasil"},
     "geometry": {
-      
+      "type":"Polygon",
       "coordinates": [
         [
           [
@@ -4630,8 +4630,7 @@
             -4.245657042523774
           ]
         ]
-      ],
-"type": "Polygon"
+      ]
     },
 "id": "BRA"
   },     
@@ -4639,6 +4638,7 @@
         "type": "Feature",
         "properties": {"name":"Colombia"},
         "geometry": {
+"type":"Polygon",
           "coordinates": [
             [
               [
@@ -5654,8 +5654,7 @@
                 10.651108540254867
               ]
             ]
-          ],
-"type":"Polygon"
+          ]
         }, 
 "id" : "COL"
       },     
@@ -5664,6 +5663,7 @@
         "type": "Feature",
         "properties": {"name": "SurAmerica3"},
         "geometry": { 
+"type":"Polygon",
           "coordinates": [
             [
               [
@@ -6239,8 +6239,7 @@
                 -19.207522936606352
             ]
         ]
-      ],
-      "type": "Polygon"      
+      ]     
     },
     "id": "SUR3"
         
