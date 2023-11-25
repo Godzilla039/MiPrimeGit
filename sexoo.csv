@@ -31,7 +31,7 @@ Cameroon,CMR,17795149
 Chad,TCD,10145609
 Comoros,COM,797902
 Central African Republic,CAF,4191429
-Cuba,CUB,11259905
+Cuba,CUB,501000
 Cape Verde,CPV,506807
 Cook Islands,COK,13984
 Cyprus,CYP,836321
@@ -39,7 +39,6 @@ Denmark,DNK,5416945
 Djibouti,DJI,804206
 Dominica,DMA,67827
 Dominican Republic,DOM,9469601
-Ecuador,ECU,13060993
 Egypt,EGY,72849793
 Ireland,IRL,4143294
 Equatorial Guinea,GNQ,484098
@@ -59,7 +58,7 @@ Gabon,GAB,1290693
 Georgia,GEO,4473409
 Ghana,GHA,2253501
 Grenada,GRD,105237
-Greenland,GRL,57475
+Greenland,GRL,550000
 Germany,DEU,82652369
 Guam,GUM,16857
 Greece,GRC,11099737
@@ -224,5 +223,5 @@ Guernsey,GGY,0
 Jersey,JEY,0
 South Georgia South Sandwich Islands,SGS,0
 Taiwan,TWN,4588932
-UsaNorte,NUSA,6588932
-UsaOeste,USAO,2587932
+UsaNorte,NUSA,510000
+UsaOeste,USAO,520000
