@@ -3077,7 +3077,7 @@
     "type": "Feature",
     "properties": {"name": "Brasil"},
     "geometry": {
-      "type": "Polygon",
+      
       "coordinates": [
         [
           [
@@ -4101,7 +4101,8 @@
             -4.245657042523774
           ]
         ]
-      ]
+      ],
+"type": "Polygon"
     },
 "id": "BRA"
   },     
